@@ -5,4 +5,3 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/shatterstarr/dev-intensive-2019.git
 git push -u origin main
-git clone <https://github.com/makweb/for_dev_intensive>
