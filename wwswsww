@@ -1,7 +1,0 @@
-echo "# dev-intensive-2019" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/shatterstarr/dev-intensive-2019.git
-git push -u origin main
